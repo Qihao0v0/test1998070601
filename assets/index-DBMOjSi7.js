@@ -3,11 +3,15 @@
 能带我回到那个夏末吗，带我逃回雨季之前，我们在那里度过我的余生，好不好`},{id:`20260912-2151`,author:`奇好`,publishedAt:`2026-09-12T21:51:00+08:00`,body:`追忆。完。
 暴雨倾盆如注，雨真的会停吗？
 带着这样不健康的想法创作是不好的。`},{id:`20260916-1556`,author:`奇好`,publishedAt:`2026-09-16T15:56:00+08:00`,body:`人类，一种双足灵长类生物，以其末期发明可乐而闻名。`},{id:`20260917-1022`,author:`奇好`,publishedAt:`2026-09-17T10:22:00+08:00`,body:`焚毁。？这片天。空`,images:[{src:new URL(new URL(`2-CLtxGsi7.jpg`,import.meta.url).href,``+import.meta.url).href,alt:`窗外的树与楼房`},{src:new URL(new URL(`3-BSUUITsX.jpg`,import.meta.url).href,``+import.meta.url).href,alt:`窗外的树梢`}]},{id:`20260920-1204`,author:`奇好`,publishedAt:`2026-09-20T12:04:00+08:00`,body:`述情言志`},{id:`20260926-2208`,author:`奇好`,publishedAt:`2026-09-26T22:08:00+08:00`,body:`列车会一直运行下去吗`},{id:`20261006-0708`,author:`奇好`,publishedAt:`2026-10-06T07:08:00+08:00`,body:`雨季。
-或许我该再开一个号，去认识更年轻的人们，或者更直白一点，贪婪地汲取他们的活力？对于淋湿的人是否有些困难？我尚不知道`},{id:`20261009-1128`,author:`奇好`,publishedAt:`2026-10-09T11:28:00+08:00`,body:`你很棒，只要竖着切一刀见骨后连着松掉的皮向上用力耐心地拽就可以得到我最爱的部分`},{id:`20261009-0617`,author:`奇好`,publishedAt:`2026-10-09T06:17:00+08:00`,body:`雷霆大雨季`},{id:`20261020-0945`,author:`奇好`,publishedAt:`2026-10-20T09:45:00+08:00`,body:`超大号白色哈基米，耶耶`,images:[{src:new URL(new URL(`4-Dqecq843.jpg`,import.meta.url).href,``+import.meta.url).href,alt:`戴着耳机的毛绒玩偶`}]}]},{id:`projects`,title:`个人做的一些项目`,author:`奇好`,publishedAt:`2026-10-25T05:29:22+08:00`,body:`【PixelWeave】移动端梗图小帮手
+或许我该再开一个号，去认识更年轻的人们，或者更直白一点，贪婪地汲取他们的活力？对于淋湿的人是否有些困难？我尚不知道`},{id:`20261009-1128`,author:`奇好`,publishedAt:`2026-10-09T11:28:00+08:00`,body:`你很棒，只要竖着切一刀见骨后连着松掉的皮向上用力耐心地拽就可以得到我最爱的部分`},{id:`20261009-0617`,author:`奇好`,publishedAt:`2026-10-09T06:17:00+08:00`,body:`雷霆大雨季`},{id:`20261020-0945`,author:`奇好`,publishedAt:`2026-10-20T09:45:00+08:00`,body:`超大号白色哈基米，耶耶`,images:[{src:new URL(new URL(`4-Dqecq843.jpg`,import.meta.url).href,``+import.meta.url).href,alt:`戴着耳机的毛绒玩偶`}]},{id:`20261025-0703`,author:`奇好`,publishedAt:`2026-10-25T07:03:00+08:00`,body:`看了一些比较，好吧我不知道该怎么描述，old web？web 1.0？，风格的个人站
+真好啊
+在考虑搞一个，但是好费时间，我好忙好忙，而且最近刚搞了个别的样式的个人站
+更何况我有这么多东西要讲吗（哈哈。）
+但是还是不得不说，看了不知道多少次都想说
+真好啊`}]},{id:`projects`,title:`个人做的一些项目`,author:`奇好`,publishedAt:`2026-10-25T05:29:22+08:00`,body:`【PixelWeave】移动端梗图小帮手
 想到一个点子但电脑不在身边，大多数移动端软件的抠图和贴图功能又是残疾？
 也许你需要（至少我自己需要这个）专注于抠图和拼贴的小帮手
 链接：https://qihao0v0.github.io/PixelWeave/
-
 
 【WecomScrub】企业微信打码器
 用于企业微信打码水印，不是很好用
